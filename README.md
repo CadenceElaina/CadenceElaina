@@ -11,7 +11,7 @@ Resume: [2022 Tech Resume.docx](https://github.com/CadenceElaina/CadenceElaina/f
 
 Challenge me in chess? https://www.chess.com/member/sircoopa
 
-10 Favorite Games All Time: 
+Top 10 Favorite Games All Time: 
 1. Pokémon Emerald (I loved Fire Red, Gold, Platinum, and B&W, but stopped playing after B&W 2) - Great franchise 
 2. Civilization 3 (civ V and VI are close in value to me)
 3. League of Legends (only in theory, rarely in application) - the game itself is one of the best multiplayer experiences. Unfortunately, the community is terrible, and matchmaking is often questionable and the meta can be broken throughout the year, but when the meta is playable and you get an actual competitive game it’s a great experience.
