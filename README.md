@@ -12,10 +12,7 @@ Other potentially relevant experience:
 - https://www.sololearn.com/profile/20095887
 - https://www.khanacademy.org/profile/sircoopa/projects
 - https://www.linkedin.com/in/cooper-burwell-674147195/
-
-
-Personal section:
-I am a trans woman 
+ 
 Challenge me in chess? https://www.chess.com/member/sircoopa
 
 Top 10 Favorite Games All Time: 
