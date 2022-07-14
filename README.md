@@ -16,13 +16,8 @@ Other potentially relevant experience:
 Challenge me in chess? https://www.chess.com/member/sircoopa
 
 Top 10 Favorite Games All Time: 
-1. Pokémon Emerald (I loved Fire Red, Gold, Platinum, and B&W, but stopped playing after B&W 2) - Great franchise 
-2. Civilization 3 (civ V and VI are close in value to me)
-3. League of Legends (only in theory, rarely in application) - the game itself is one of the best multiplayer experiences. Unfortunately, the community is terrible, and matchmaking is often questionable and the meta can be broken throughout the year, but when the meta is playable and you get an actual competitive game it’s a great experience.
-4. Call of Duty - countless hours in multiplayer/competitive across titles and some of the older campaigns were fantastic.
-5. Elder Scrolls - Skyrim
-6. GTA V
-7. Halo 3
-8. Minecraft
-9. Guitar Hero 3 
-10. Super Mario World
+1. Pokémon Emerald - Diamond is close second and I enjoyed all from the series up until B&W 2
+2. Civilization 3 - civ V and VI are close behind
+3. League of Legends - despite the toxic community and often broken metas, I absolutely love when the games are competitive
+4. COD - innumerable hourse spent playing with friends and comepetively 
+5. Minecraft - played when the beta was out for free
