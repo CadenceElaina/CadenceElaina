@@ -7,13 +7,14 @@
 - 📫 How to reach me ... cadenceelaina@yahoo.com 
 
 Resume: [2022 Tech Resume.docx](https://github.com/CadenceElaina/CadenceElaina/files/9105023/2022.Tech.Resume.docx)
-Other potentially relevant experience: 
+
+Other releveant links: 
 - https://www.freecodecamp.org/CadenceElaina
 - https://www.sololearn.com/profile/20095887
 - https://www.khanacademy.org/profile/sircoopa/projects
 - https://www.linkedin.com/in/cooper-burwell-674147195/
  
-Challenge me in chess? https://www.chess.com/member/sircoopa
+Challenge me in chess? https://www.chess.com/member/cadenceelaina
 
 Top 10 Favorite Games All Time: 
 1. Pokémon Emerald - Diamond is close second and I enjoyed all from the series up until B&W 2
