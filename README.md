@@ -10,6 +10,8 @@ Resume: [2022 Tech Resume.docx](https://github.com/CadenceElaina/CadenceElaina/f
 
 Other releveant links: 
 - https://www.freecodecamp.org/CadenceElaina
+- https://replit.com/@cadenceelaina
+- https://codepen.io/cadenceElaina
 - https://www.sololearn.com/profile/20095887
 - https://www.khanacademy.org/profile/sircoopa/projects
 - https://www.linkedin.com/in/cooper-burwell-674147195/
