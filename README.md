@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ... nearly anything!
 - 📫 How to reach me ... cadenceelaina@yahoo.com 
 
-Resume: [2022 Tech Resume.docx][(https://github.com/CadenceElaina/CadenceElaina/files/9105023/2022.Tech.Resume.docx](https://docs.google.com/document/d/1Ly3FuEiS5NAUDfDybgF-raJXDLr5f9fn/edit?usp=sharing&ouid=111450464463127950952&rtpof=true&sd=true))
+Resume: https://docs.google.com/document/d/1Ly3FuEiS5NAUDfDybgF-raJXDLr5f9fn/edit?usp=sharing&ouid=111450464463127950952&rtpof=true&sd=true
 
 Other releveant links: 
 - https://www.freecodecamp.org/CadenceElaina
