@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Cadence 
-- 👀 I’m interested in ... Web development, programming, and learning new things!.
+- 👀 I’m interested in ... Game development, web development, and learning new things!
 
-- 🌱 I’m currently learning ... Web development. HTML, CSS, JavaScript, React, SCSS, Tailwind, Bootstrap and more. I have worked with Python and Java. I was introduced to C++ in a highschool course.
-
+- 🌱 I’m currently learning ... C++, game development, web development, and algorithms/data structures
 - 💞️ I’m looking to collaborate on ... nearly anything!
 - 📫 How to reach me ... cadenceelaina@yahoo.com 
 
@@ -16,11 +15,11 @@ Other releveant links:
 - https://www.khanacademy.org/profile/sircoopa/projects
 - https://www.linkedin.com/in/cooper-burwell-674147195/
  
-Challenge me in chess? https://www.chess.com/member/cadenceelaina
+How about a game of chess? https://www.chess.com/member/cadenceelaina
 
-Top 10 Favorite Games All Time: 
-1. Pokémon Emerald - Diamond is a close second and I enjoyed the series
-2. Civilization VI - civ V and III are close behind
-3. League of Legends - despite the toxic community, I absolutely love when the games are competitive
-4. COD - innumerable hours spent playing the series with friends
+Top 5 Favorite Games: 
+1. Pokémon Emerald - Diamond is a close second
+2. Civilization VI - civ V and III are also great
+3. League of Legends
+4. COD 
 5. Minecraft - played when the beta was out for free, tons of fun with friends
