@@ -16,7 +16,7 @@ Other releveant links:
  
 How about a game of chess? https://www.chess.com/member/cadenceelaina
 
-Top 5 Favorite Games: 
+My favorite games: 
 1. Pokémon Emerald - Diamond is a close second
 2. Civilization VI - civ V and III are also great
 3. League of Legends
