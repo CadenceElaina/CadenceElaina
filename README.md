@@ -4,10 +4,9 @@
 - 💞️ I’m looking to collaborate on ... nearly anything!
 - 📫 How to reach me ... cadenceelaina@yahoo.com 
 
-I currently work in Finance, but am hoping to switch to a career in tech soon! 
-Resume: https://docs.google.com/document/d/1Ly3FuEiS5NAUDfDybgF-raJXDLr5f9fn/edit?usp=sharing&ouid=111450464463127950952&rtpof=true&sd=true
+#Resume: https://docs.google.com/document/d/1Ly3FuEiS5NAUDfDybgF-raJXDLr5f9fn/edit?usp=sharing&ouid=111450464463127950952&rtpof=true&sd=true
 
-Other releveant links: 
+#Other releveant links: 
 - https://www.freecodecamp.org/CadenceElaina
 - https://replit.com/@cadenceelaina
 - https://codepen.io/cadenceElaina
@@ -15,9 +14,9 @@ Other releveant links:
 - https://www.khanacademy.org/profile/sircoopa/projects
 - https://www.linkedin.com/in/cooper-burwell-674147195/
  
-How about a game of chess? https://www.chess.com/member/cadenceelaina
+#How about a game of chess? https://www.chess.com/member/cadenceelaina
 
-Top 5 Favorite Games: 
+#Top 5 Favorite Games: 
 1. Pokémon Emerald - Diamond is a close second
 2. Civilization VI - civ V and III are also great
 3. League of Legends
