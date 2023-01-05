@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cadence 
 - 👀 I’m interested in ... Game development, web development, and learning new things!
-- 🌱 I’m currently learning ... Web development, TypeScript, Redux, NextJS, and much more! I have built with HTML, CSS, SCSS/SASS, Bootstrap, Tailwind CSS, a variety of NPM packages, JavaScript, React JS, Next JS, Sanity, and more! I also like to practice C++ when I have free time because I am a masochist erhm I mean a determined software engineer with ambition ^_^ 
+- 🌱 I’m currently learning ... Web development, TypeScript, Redux, NextJS, Canvas API, Java, and much more! I have built projects with HTML, CSS, SCSS/SASS, Bootstrap, Tailwind CSS, a variety of NPM packages, JavaScript, React JS, Next JS, Sanity, and more! I also like to practice C++ when I have free time because I am a masochist erhm I mean a determined software engineer with ambition ^_^ 
 - 💞️ I’m looking to collaborate on ... nearly anything!
 - 📫 How to reach me ... cadenceelaina@yahoo.com 
 
@@ -9,6 +9,7 @@ Resume: https://docs.google.com/document/d/1p-6YSF5YUDrCMZE3ZoO_f4Jza_9JjEWy/edi
 
 Other releveant links: 
 - https://www.freecodecamp.org/CadenceElaina
+- https://www.codewars.com/users/cadenceElaina
 - https://replit.com/@cadenceelaina
 - https://codepen.io/cadenceElaina
 - https://www.sololearn.com/profile/20095887
